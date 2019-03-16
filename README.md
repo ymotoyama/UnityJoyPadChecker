@@ -1,0 +1,2 @@
+# UnityJoyPadChecker
+UnityでJoyPadの動作確認、ボタン番号・軸番号の確認をするためのアプリ
